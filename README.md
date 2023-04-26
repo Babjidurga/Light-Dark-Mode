@@ -51,8 +51,8 @@ The app must have the following functionalities
 
 Use these files to complete the implementation:
 
-- `src/components/LightDarkMode/index.js`
-- `src/components/LightDarkMode/index.css`
+- `src/components/index.js`
+- `src/components/index.css`
 </details>
 
 ### Resources
